@@ -1,0 +1,506 @@
+file 15214 1630336857                                           
+version 2
+run Tictoc12-0-20210830-16:20:00-21780
+attr configname Tictoc12
+attr datetime 20210830-16:20:00
+attr experiment Tictoc12
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Tictoc12
+attr processid 21780
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param **.numberofMode 50
+param **.tic[*].m "intuniform(1, 10)"
+
+vector 0 Tictoc12.tic[0] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 1 Tictoc12.tic[1] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 2 Tictoc12.tic[2] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 3 Tictoc12.tic[3] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 4 Tictoc12.tic[4] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 5 Tictoc12.tic[5] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 6 Tictoc12.tic[6] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 7 Tictoc12.tic[7] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 8 Tictoc12.tic[8] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 9 Tictoc12.tic[9] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 10 Tictoc12.tic[10] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 11 Tictoc12.tic[11] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 12 Tictoc12.tic[12] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 13 Tictoc12.tic[13] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 14 Tictoc12.tic[14] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 15 Tictoc12.tic[15] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 16 Tictoc12.tic[16] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 17 Tictoc12.tic[17] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 18 Tictoc12.tic[18] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 19 Tictoc12.tic[19] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 20 Tictoc12.tic[20] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 21 Tictoc12.tic[21] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 22 Tictoc12.tic[22] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 23 Tictoc12.tic[23] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 24 Tictoc12.tic[24] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 25 Tictoc12.tic[25] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 26 Tictoc12.tic[26] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 27 Tictoc12.tic[27] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 28 Tictoc12.tic[28] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 29 Tictoc12.tic[29] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 30 Tictoc12.tic[30] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 31 Tictoc12.tic[31] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 32 Tictoc12.tic[32] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 33 Tictoc12.tic[33] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 34 Tictoc12.tic[34] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 35 Tictoc12.tic[35] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 36 Tictoc12.tic[36] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 37 Tictoc12.tic[37] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 38 Tictoc12.tic[38] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 39 Tictoc12.tic[39] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 40 Tictoc12.tic[40] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 41 Tictoc12.tic[41] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 42 Tictoc12.tic[42] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 43 Tictoc12.tic[43] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 44 Tictoc12.tic[44] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 45 Tictoc12.tic[45] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 46 Tictoc12.tic[46] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 47 Tictoc12.tic[47] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 48 Tictoc12.tic[48] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 49 Tictoc12.tic[49] NodeMemory:vector ETV
+attr interpolationmode none
+attr source arrival3
+attr title "NodeMemory, vector"
+vector 50 Tictoc12.tic[21] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 51 Tictoc12.tic[32] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 52 Tictoc12.tic[25] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 53 Tictoc12.tic[22] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 54 Tictoc12.tic[20] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 55 Tictoc12.tic[9] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 56 Tictoc12.tic[8] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 57 Tictoc12.tic[11] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 58 Tictoc12.tic[10] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 59 Tictoc12.tic[14] UseMemory:vector ETV
+attr interpolationmode none
+attr source arrival2
+attr title "MemoryUse, vector"
+vector 60 Tictoc12.tic[14] virtualNodeLength:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "Number of virtual Node, vector"
+vector 61 Tictoc12.tic[2] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 62 Tictoc12.tic[16] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 63 Tictoc12.tic[36] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 64 Tictoc12.tic[4] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 65 Tictoc12.tic[6] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 66 Tictoc12.tic[19] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 67 Tictoc12.tic[41] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 68 Tictoc12.tic[0] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 69 Tictoc12.tic[31] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 70 Tictoc12.tic[44] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 71 Tictoc12.tic[7] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 72 Tictoc12.tic[23] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 73 Tictoc12.tic[30] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 74 Tictoc12.tic[37] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 75 Tictoc12.tic[1] UseMemory:vector ETV
+attr interpolationmode none
+attr source arrival2
+attr title "MemoryUse, vector"
+vector 76 Tictoc12.tic[1] virtualNodeLength:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "Number of virtual Node, vector"
+vector 77 Tictoc12.tic[5] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 78 Tictoc12.tic[18] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 79 Tictoc12.tic[34] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 80 Tictoc12.tic[39] UseMemory:vector ETV
+attr interpolationmode none
+attr source arrival2
+attr title "MemoryUse, vector"
+vector 81 Tictoc12.tic[39] virtualNodeLength:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "Number of virtual Node, vector"
+vector 82 Tictoc12.tic[43] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 83 Tictoc12.tic[12] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 84 Tictoc12.tic[15] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 85 Tictoc12.tic[24] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 86 Tictoc12.tic[17] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 87 Tictoc12.tic[26] UseMemory:vector ETV
+attr interpolationmode none
+attr source arrival2
+attr title "MemoryUse, vector"
+vector 88 Tictoc12.tic[26] virtualNodeLength:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "Number of virtual Node, vector"
+vector 89 Tictoc12.tic[40] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 90 Tictoc12.tic[13] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 91 Tictoc12.tic[28] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+vector 92 Tictoc12.tic[42] UseMemory:vector ETV
+attr interpolationmode none
+attr source arrival2
+attr title "MemoryUse, vector"
+vector 93 Tictoc12.tic[42] virtualNodeLength:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "Number of virtual Node, vector"
+vector 94 Tictoc12.tic[33] UseMemory:vector ETV
+attr interpolationmode none
+attr source arrival2
+attr title "MemoryUse, vector"
+vector 95 Tictoc12.tic[33] virtualNodeLength:vector ETV
+attr interpolationmode none
+attr source arrival
+attr title "Number of virtual Node, vector"
+vector 96 Tictoc12.tic[35] RestOfMemory:vector ETV
+attr interpolationmode none
+attr source arrival1
+attr title "Rest Of Memory, vector"
+0	13714 9 0 0 0 0 1 6 6 6 36
+1	13723 9 0 0 0 0 1 1 1 1 1
+2	13732 9 0 0 0 0 1 4 4 4 16
+3	13741 9 0 0 0 0 1 4 4 4 16
+4	13750 9 0 0 0 0 1 8 8 8 64
+5	13759 10 0 0 0 0 1 10 10 10 100
+6	13769 9 0 0 0 0 1 4 4 4 16
+7	13778 9 0 0 0 0 1 6 6 6 36
+8	13787 9 0 0 0 0 1 3 3 3 9
+9	13796 9 0 0 0 0 1 5 5 5 25
+10	13805 10 0 0 0 0 1 8 8 8 64
+11	13815 10 0 0 0 0 1 7 7 7 49
+12	13825 10 0 0 0 0 1 9 9 9 81
+13	13835 10 0 0 0 0 1 9 9 9 81
+14	13845 10 0 0 0 0 1 2 2 2 4
+15	13855 10 0 0 0 0 1 7 7 7 49
+16	13865 10 0 0 0 0 1 8 8 8 64
+17	13875 10 0 0 0 0 1 8 8 8 64
+18	13885 10 0 0 0 0 1 9 9 9 81
+19	13895 10 0 0 0 0 1 2 2 2 4
+20	13905 10 0 0 0 0 1 6 6 6 36
+21	13915 11 0 0 0 0 1 10 10 10 100
+22	13926 10 0 0 0 0 1 9 9 9 81
+23	13936 11 0 0 0 0 1 10 10 10 100
+24	13947 10 0 0 0 0 1 5 5 5 25
+25	13957 10 0 0 0 0 1 4 4 4 16
+26	13967 10 0 0 0 0 1 1 1 1 1
+27	13977 10 0 0 0 0 1 4 4 4 16
+28	13987 10 0 0 0 0 1 6 6 6 36
+29	13997 10 0 0 0 0 1 1 1 1 1
+30	14007 10 0 0 0 0 1 3 3 3 9
+31	14017 10 0 0 0 0 1 4 4 4 16
+32	14027 10 0 0 0 0 1 9 9 9 81
+33	14037 10 0 0 0 0 1 2 2 2 4
+34	14047 10 0 0 0 0 1 4 4 4 16
+35	14057 10 0 0 0 0 1 4 4 4 16
+36	14067 10 0 0 0 0 1 4 4 4 16
+37	14077 10 0 0 0 0 1 8 8 8 64
+38	14087 10 0 0 0 0 1 1 1 1 1
+39	14097 10 0 0 0 0 1 2 2 2 4
+40	14107 11 0 0 0 0 1 10 10 10 100
+41	14118 11 0 0 0 0 1 10 10 10 100
+42	14129 10 0 0 0 0 1 1 1 1 1
+43	14139 10 0 0 0 0 1 5 5 5 25
+44	14149 10 0 0 0 0 1 8 8 8 64
+45	14159 10 0 0 0 0 1 4 4 4 16
+46	14169 10 0 0 0 0 1 3 3 3 9
+47	14179 10 0 0 0 0 1 8 8 8 64
+48	14189 10 0 0 0 0 1 3 3 3 9
+49	14199 10 0 0 0 0 1 1 1 1 1
+50	14209 20 5 5 0.000000001 0.000000001 1 9 9 9 81
+51	14229 20 7 7 0.000000001 0.000000001 1 8 8 8 64
+52	14249 21 15 15 0.000000001 0.000000001 1 3 3 3 9
+53	14270 21 19 19 0.000000001 0.000000001 1 8 8 8 64
+54	14291 21 27 27 0.000000001 0.000000001 1 5 5 5 25
+55	14312 21 28 28 0.000000001 0.000000001 1 2 2 2 4
+56	14333 21 31 31 0.000000001 0.000000001 1 2 2 2 4
+57	14354 21 35 35 0.000000001 0.000000001 1 5 5 5 25
+58	14375 21 38 38 0.000000001 0.000000001 1 7 7 7 49
+59	14396 21 39 39 0.000000001 0.000000001 1 3 3 3 9
+60	14417 21 39 39 0.000000001 0.000000001 1 1 1 1 1
+61	14438 21 41 41 0.000000001 0.000000001 1 2 2 2 4
+62	14459 21 42 42 0.000000001 0.000000001 1 4 4 4 16
+63	14480 21 49 49 0.000000001 0.000000001 1 2 2 2 4
+64	14501 21 56 56 0.000000001 0.000000001 1 6 6 6 36
+65	14522 21 63 63 0.000000001 0.000000001 1 2 2 2 4
+66	14543 21 65 65 0.000000001 0.000000001 1 1 1 1 1
+67	14564 21 67 67 0.000000001 0.000000001 1 9 9 9 81
+68	14585 21 69 69 0.000000001 0.000000001 1 5 5 5 25
+69	14606 21 73 73 0.000000001 0.000000001 1 1 1 1 1
+70	14627 21 76 76 0.000000001 0.000000001 1 7 7 7 49
+71	14648 21 79 79 0.000000001 0.000000001 1 5 5 5 25
+72	14669 21 81 81 0.000000001 0.000000001 1 7 7 7 49
+73	14690 21 83 83 0.000000001 0.000000001 1 1 1 1 1
+74	14711 21 84 84 0.000000001 0.000000001 1 4 4 4 16
+75	14732 21 88 88 0.000000001 0.000000001 1 3 3 3 9
+76	14753 21 88 88 0.000000001 0.000000001 1 3 3 3 9
+77	14774 21 90 90 0.000000001 0.000000001 1 7 7 7 49
+78	14795 21 95 95 0.000000001 0.000000001 1 5 5 5 25
+79	14816 22 105 105 0.000000001 0.000000001 1 1 1 1 1
+80	14838 22 106 106 0.000000001 0.000000001 1 3 3 3 9
+81	14860 22 106 106 0.000000001 0.000000001 1 1 1 1 1
+82	14882 22 107 107 0.000000001 0.000000001 1 3 3 3 9
+83	14904 22 108 108 0.000000001 0.000000001 1 5 5 5 25
+84	14926 22 110 110 0.000000001 0.000000001 1 4 4 4 16
+85	14948 22 113 113 0.000000001 0.000000001 1 3 3 3 9
+86	14970 22 127 127 0.000000001 0.000000001 1 3 3 3 9
+87	14992 22 129 129 0.000000001 0.000000001 1 4 4 4 16
+88	15014 22 129 129 0.000000001 0.000000001 1 4 4 4 16
+89	15036 22 146 146 0.000000001 0.000000001 1 7 7 7 49
+90	15058 22 148 148 0.000000001 0.000000001 1 7 7 7 49
+91	15080 22 156 156 0.000000001 0.000000001 1 3 3 3 9
+92	15102 22 157 157 0.000000001 0.000000001 1 2 2 2 4
+93	15124 22 157 157 0.000000001 0.000000001 1 2 2 2 4
+94	15146 22 168 168 0.000000001 0.000000001 1 3 3 3 9
+95	15168 22 168 168 0.000000001 0.000000001 1 1 1 1 1
+96	15190 22 169 169 0.000000001 0.000000001 1 2 2 2 4
+

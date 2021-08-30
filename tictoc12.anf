@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scave:Analysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:scave="http://www.omnetpp.org/omnetpp/scave">
+  <inputs>
+    <inputs name="/MemoryTest/results/Tictoc12-*.vec"/>
+    <inputs name="/MemoryTest/results/Tictoc12-*.sca"/>
+  </inputs>
+  <datasets>
+    <datasets name="attr:experiment(Tictoc12) AND attr:replication(#0)">
+      <items xsi:type="scave:Add" filterPattern="attr:experiment(Tictoc12) AND attr:replication(#0)" type="STATISTICS"/>
+      <items xsi:type="scave:Add" filterPattern="attr:experiment(Tictoc12) AND attr:replication(#0)" type="HISTOGRAM"/>
+      <items xsi:type="scave:LineChart">
+        <filters xsi:type="scave:Deselect"/>
+        <properties name="Axes.Grid" value="All"/>
+        <properties name="Y.Axis.Title" value="Number of Node"/>
+        <properties name="X.Axis.Title" value="No,ber of Virtual Node"/>
+        <properties name="Graph.Title" value="Node"/>
+      </items>
+      <items xsi:type="scave:Compute" operation="compare">
+        <params name="ifEqual" value="20"/>
+        <groupBy>file</groupBy>
+        <groupBy>run</groupBy>
+      </items>
+      <items xsi:type="scave:HistogramChart"/>
+    </datasets>
+  </datasets>
+  <chartSheets>
+    <chartSheets name="default" charts="//@datasets/@datasets.0/@items.4 //@datasets/@datasets.0/@items.2"/>
+  </chartSheets>
+</scave:Analysis>
